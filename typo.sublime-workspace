@@ -1,0 +1,466 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"det",
+				"deltaY"
+			],
+			[
+				"Abst",
+				"AbstractFacade"
+			],
+			[
+				"is",
+				"isDebug"
+			],
+			[
+				"in",
+				"init"
+			],
+			[
+				"ABs",
+				"AbstractService"
+			],
+			[
+				"Abstr",
+				"AbstractMediator"
+			],
+			[
+				"Respo",
+				"ResponsiveMediator"
+			],
+			[
+				"regis",
+				"registerMediator"
+			],
+			[
+				"R",
+				"REFRESH"
+			],
+			[
+				"res",
+				"responsiveEvent"
+			],
+			[
+				"RE",
+				"RESIZE_EVENT"
+			],
+			[
+				"Res",
+				"responsiveEvent"
+			],
+			[
+				"Absr",
+				"AbstractService"
+			],
+			[
+				"Abs",
+				"AbstractProxy"
+			],
+			[
+				"proce",
+				"processMap"
+			],
+			[
+				"pr",
+				"proxy"
+			],
+			[
+				"st",
+				"step"
+			],
+			[
+				"ur",
+				"urlMap"
+			],
+			[
+				"con",
+				"constructor"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"A",
+				"AbstractFacade"
+			],
+			[
+				"Ab",
+				"AbstractMediator"
+			],
+			[
+				"sta",
+				"stack"
+			],
+			[
+				"stack",
+				"stackMode"
+			],
+			[
+				"mod",
+				"model"
+			],
+			[
+				"proxy",
+				"proxyMap"
+			],
+			[
+				"obs",
+				"observerMap"
+			],
+			[
+				"med",
+				"mediatorMap"
+			],
+			[
+				"lab",
+				"labelOrName"
+			],
+			[
+				"stop",
+				"stopCount"
+			],
+			[
+				"tasks",
+				"tasksArray"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"_",
+				"_cronStack"
+			],
+			[
+				"no",
+				"notify"
+			],
+			[
+				"No",
+				"Notifier"
+			],
+			[
+				"header",
+				"header"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"ti",
+				"time"
+			],
+			[
+				"Notif",
+				"NotificationHeader"
+			],
+			[
+				"cart",
+				"cartUrl"
+			],
+			[
+				"CSS",
+				"CSS_URL"
+			],
+			[
+				"AP",
+				"APP_DIR"
+			],
+			[
+				"WE",
+				"WEBROOT_DIR"
+			],
+			[
+				"s",
+				"sendNotification"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3808,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 49.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Add Repository"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Pa",
+				"Package Control: Add Repository"
+			],
+			[
+				"PAck",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Shared/Dropboxes/antoine/Dropbox/virtualMac/Sites/github/projects/palo-ma.com/app/View/Elements/footer.ctp",
+		"/Users/Shared/Dropboxes/antoine/Dropbox/virtualMac/Sites/github/projects/palo-ma.com/app/View/Account/customer_index.ctp",
+		"/Users/Shared/Dropboxes/antoine/Dropbox/virtualMac/Sites/github/projects/palo-ma.com/app/webroot/css/scss/theme/_main.scss",
+		"/Users/Shared/Dropboxes/antoine/Dropbox/virtualMac/Sites/github/projects/palo-ma.com/app/View/Purchases/customer_checkout.ctp",
+		"/Users/Shared/Dropboxes/antoine/Dropbox/virtualMac/Sites/github/projects/palo-ma.com/app/Controller/PurchasesController.php",
+		"/Users/Shared/Dropboxes/antoine/Dropbox/virtualMac/Sites/github/projects/palo-ma.com/app/Controller/CartController.php",
+		"/Users/Shared/Dropboxes/antoine/Dropbox/virtualMac/Sites/github/projects/palo-ma.com/app/View/Cart/index.ctp",
+		"/Users/Shared/Dropboxes/antoine/Dropbox/virtualMac/Sites/github/projects/palo-ma.com/app/View/Cart/view.ctp",
+		"/Users/Shared/Dropboxes/antoine/Dropbox/virtualMac/Sites/github/projects/palo-ma.com/app/Controller/AccountController.php",
+		"/Users/Shared/Dropboxes/antoine/Dropbox/virtualMac/Sites/github/projects/palo-ma.com/app/webroot/js/cart.js",
+		"/Users/Shared/Dropboxes/antoine/Dropbox/virtualMac/Sites/github/projects/palo-ma.com/app/webroot/js/better-query-0.0.1.js",
+		"/Users/Shared/Dropboxes/antoine/Dropbox/virtualMac/Sites/github/projects/palo-ma.com/app/webroot/js/better-0.0.1.js",
+		"/Users/Shared/Dropboxes/antoine/Dropbox/virtualMac/Sites/github/projects/palo-ma.com/app/View/Layouts/default.ctp",
+		"/Users/Shared/Dropboxes/antoine/Dropbox/virtualMac/Sites/github/projects/palo-ma.com/app/webroot/js/jquery/plugins/jquery.pureMVC-1.0.js",
+		"/Users/Shared/Dropboxes/antoine/Dropbox/virtualMac/Sites/github/projects/palo-ma.com/app/webroot/opencart/catalog/view/javascript/jquery/nivo-slider/jquery.nivo.slider.pack.js",
+		"/Users/Shared/Dropboxes/antoine/Dropbox/virtualMac/Sites/github/projects/palo-ma.com/app/webroot/opencart/catalog/view/javascript/jquery/nivo-slider/jquery.nivo.slider.js",
+		"/Users/Shared/Dropboxes/antoine/Dropbox/virtualMac/Sites/github/projects/palo-ma.com/app/View/Elements/header/header.ctp",
+		"/Users/Shared/Dropboxes/antoine/Dropbox/virtualMac/Sites/github/projects/palo-ma.com/app/webroot/js/jquery/plugins/jquery.trois.js",
+		"/Users/Shared/Dropboxes/antoine/Dropbox/virtualMac/Sites/github/projects/palo-ma.com/app/webroot/css/scss/theme/_elements.scss",
+		"/Users/Shared/Dropboxes/antoine/Dropbox/virtualMac/Sites/github/projects/palo-ma.com/app/webroot/js/preload.js",
+		"/Users/Shared/Dropboxes/antoine/Dropbox/virtualMac/Sites/github/projects/palo-ma.com/app/View/Products/index.ctp",
+		"/Users/mike/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Shared/Dropboxes/antoine/Dropbox/virtualMac/Sites/github/projects/palo-ma.com/app/View/Helper/ThumbHelper.php",
+		"/Users/mike/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Shared/Dropboxes/antoine/Dropbox/virtualMac/Sites/github/projects/palo-ma.com/app/tmp/cache/views/github_projects_palo_ma_com_scenes_view_10.php",
+		"/Users/Shared/Dropboxes/antoine/Dropbox/virtualMac/Sites/github/projects/wgr/app/Config/database.php",
+		"/Users/mike/Desktop/electrosanne 2012.sql",
+		"/Users/mike/Desktop/test.js",
+		"/Users/Shared/Dropboxes/antoine/Dropbox/virtualMac/Sites/github/awallef/app.css/core/build/minimify/config.rb",
+		"/Users/mike/Desktop/like.html",
+		"/Users/mike/Desktop/toutan.sql",
+		"/Users/mike/Downloads/initializr 3/index.html",
+		"/Users/mike/Desktop/damien.txt",
+		"/Users/Shared/Dropboxes/antoine/Dropbox/virtualMac/Config/bash/.bash_profile"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bfs",
+			"bsf",
+			"Bsf",
+			"Trois",
+			"Application",
+			"abstractser",
+			": f",
+			"},",
+			": f",
+			"},",
+			": f",
+			"trois",
+			": f",
+			"},",
+			"badger",
+			": f",
+			"},",
+			":",
+			"},",
+			":",
+			"},",
+			": f",
+			"},",
+			":",
+			"},",
+			":",
+			"},",
+			",",
+			":",
+			"AbstractCommand",
+			",",
+			":",
+			"AbstractMediator",
+			":",
+			",",
+			"AbstractProxy",
+			"badger",
+			"preload"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"better",
+			"bfs",
+			"bsf",
+			"Bsf",
+			"Trois"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 3808,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"def",
+				"app/View/Layouts/default.ctp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 331.0,
+	"status_bar_visible": true
+}
